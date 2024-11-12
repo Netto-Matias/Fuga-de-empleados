@@ -1,0 +1,1 @@
+Link del dashboard: https://public.tableau.com/views/PracticaDashboard_17314359339580/Dashboard1?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
